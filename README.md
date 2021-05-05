@@ -22,5 +22,5 @@
 
 - https://github.com/siddiqum/Project3
 
-- <b>Description:</b>  A complete "Web Dev Story" that adopts a Design Thinking approach to address a problem through a front-end website build
+- <b>Description:</b>  Make county wise covid-19 tracker using Jupytar notebook.
 
