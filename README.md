@@ -8,7 +8,7 @@
 
 - https://github.com/siddiqum/Project1
 
-- <b>Description:</b> 
+- <b>Description:</b> Covid 19 symptoms check app.
 
 
 ## Project #2
